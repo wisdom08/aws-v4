@@ -14,3 +14,6 @@
 - RDS 생성 : 퍼블릭 엑세스 허용
 - 로컬 PC ip와 내부 시큐리티 그룹으로만 연결 허용해주자.
 - 이번에는 로드밸런서 연결안함
+
+## 참고
+[velog: aws-배포-4단계-버전](https://velog.io/@wisdom08/aws-배포-4단계-elastic-beanstalk-RDS)
